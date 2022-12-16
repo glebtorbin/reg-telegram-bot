@@ -41,7 +41,11 @@ python3 app/bot.py
 ```
 https://t.me/fio_list_bot
 ```
-
+### Технологии:
+  - SQLAlchemy
+  - Alembic
+  - pytelegrambotapi
+  - xlsxwriter
 
 ### Над проектом работал:
 Глеб Торбин
